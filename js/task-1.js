@@ -57,8 +57,8 @@
 //         alert('НЕ ПАРНЕ ЧИСЛО');
 //     }
 //АБО МОЖНА ЗАПИСАТИ ЧЕРЕЗ ТЕРНАРНИЙ ОПЕРАТОР
-const number = prompt("Введіть число");
+// const number = prompt("Введіть число");
 
-const message = number % 2 === 0 ? "ПАРНЕ ЧИСЛО" : "НЕПАРНЕ ЧИСЛО";
-console.log(message);
-alert(message);
+// const message = number % 2 === 0 ? "ПАРНЕ ЧИСЛО" : "НЕПАРНЕ ЧИСЛО";
+// console.log(message);
+// alert(message);
